@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Acerca de mi
+## Acerca de mi
 He estudiado un grado medio de Sistemas microinformaticos y redes.
 Actualmente estoy estudiando Diseño de Aplicaciones Web.
 
