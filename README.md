@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##Acerca de mi
+He estudiado un grado medio de Sistemas microinformaticos y redes.
+Actualmente estoy estudiando Diseño de Aplicaciones Web.
+
 ## SKILLS:
 ![CSS](https://img.shields.io/badge/CSS-yellow?logo=css3&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-blue?logo=html5&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-orange?logo=java&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=for-the-badge)
