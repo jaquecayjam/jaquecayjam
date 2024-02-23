@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## SKILLS:
-![Static Badge](https://img.shields.io/badge/CSS)
+![CSS](https://img.shields.io/badge/CSS-yellow?logo=css3&style=for-the-badge)
